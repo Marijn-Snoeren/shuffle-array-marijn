@@ -1,5 +1,5 @@
 {
-  "name": "@marijn-snoeren/shuffle-array-marijn",
+  "name": "shuffle-array-marijn",
   "version": "1.0.1",
   "publishConfig": {
   "access": "public"
